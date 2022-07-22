@@ -1,0 +1,99 @@
+.bp4-navbar{
+  background-color: #3A7AFE;
+  
+}
+.sidebar{
+  background-color: #FFF;
+  height: 50px;
+  padding: 0 15px;
+  position: relative;
+  width: 100%;
+  z-index: 10;
+  color: #3A7AFE ;
+}
+.topbar{
+  background: #FFF;
+}
+.topbar__left{
+  color: #3A7AFE ;
+}
+.second-color{
+  color: #585757;
+}
+.bp4-dark .bp4-button:not([class*=bp4-intent-]){
+  color: #585757;
+}
+.bp4-dark .bp4-button:not([class*=bp4-intent-]) .bp4-icon:not([class*=bp4-intent-]), .bp4-dark .bp4-button:not([class*=bp4-intent-]) .bp4-icon-standard:not([class*=bp4-intent-]), .bp4-dark .bp4-button:not([class*=bp4-intent-]) .bp4-icon-large:not([class*=bp4-intent-]) {
+  color: #537fc1;
+}
+.go3436411437{
+  border-bottom: 1px solid #DDD;
+}
+
+.go3464034812{
+  background-color: #3A7AFE !important;
+}
+.go242266285{
+  background-color: #fFF !important;
+  color: #24365C !important;
+}
+.go846226717{
+  background: #FFF !important;
+}
+.go141666149{
+  margin-left: 5px;
+  border-radius: 8px; 
+}
+.go141666149:hover{
+  color:#3A7AFE !important 
+}
+.go141666149.active{
+  color:#3A7AFE !important;
+  background: #FFF !important;
+}
+.go4153082118 button{
+  color:#3A7AFE !important;
+}
+.go242266285 .bp4-input-group span {
+  color: #3A7AFE !important;
+  top: 3px;
+
+}
+.go242266285 .bp4-input-group input {
+  background: transparent !important;
+  color: #24365C !important;
+  border: 1px solid #DDD;
+  border-radius: 5px;
+  padding: 10px;
+  height: 38px;
+
+}
+.go242266285 .bp4-align-right { 
+  color: #24365C !important;  
+} 
+.bp4-tabs .bp4-tab-list .bp4-tab-indicator-wrapper{
+  color: #24365C !important;
+}
+.bp4-dark .bp4-tab[aria-selected=true], .bp4-dark .bp4-tab:not([aria-disabled=true]):hover{
+  color: #24365C !important;
+}
+.bp4-dark .bp4-tab{
+  color: #24365C !important;
+}
+/* .go2076549728 .go242266285 .bp4-dark .bp4-button:not([class*=bp4-intent-]){
+  background-color: #3A7AFE !important;
+  color: #FFF;
+} */
+@media screen and (min-width: 501px) {
+.go3464034812 { 
+    min-width: 80px !important;
+}
+}
+
+body ::-webkit-scrollbar-thumb {
+  background: #888;
+}
+.go4160152499 ::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+ 
