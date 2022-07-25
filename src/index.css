@@ -96,3 +96,51 @@ body ::-webkit-scrollbar-thumb {
 .go4160152499 ::-webkit-scrollbar-track {
   background: #f1f1f1;
 }
+.go1599247145{
+  color :#3A7AFE !important;
+  fill : #3A7AFE !important
+}
+.go1599247145 .pointer,
+.bp4-dark .go1599247145 path{ 
+  stroke: #fff  !important;
+  fill: #FFF !important ; 
+}
+/* .go4160152499::-webkit-scrollbar {
+  display: none !important;
+} */
+.go4160152499::-webkit-scrollbar {
+  width: 6px;
+}
+ 
+.go4160152499::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey !important; 
+  border-radius: 10px !important;
+}
+/* Handle */
+.go4160152499::-webkit-scrollbar-thumb {
+  background: #3A7AFE !important; 
+  border-radius: 10px !important; 
+}
+
+/* Handle on hover */
+.go4160152499::-webkit-scrollbar-thumb:hover {
+  background: #3A7AFE !important; 
+}
+
+.go3464034812::-webkit-scrollbar {
+  width: 6px;
+}
+.go3464034812::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey !important; 
+  border-radius: 10px !important;
+}
+/* Handle */
+.go3464034812::-webkit-scrollbar-thumb {
+  background: #3A7AFE !important; 
+  border-radius: 10px !important; 
+}
+
+/* Handle on hover */
+.go3464034812::-webkit-scrollbar-thumb:hover {
+  background: #3A7AFE !important; 
+}
